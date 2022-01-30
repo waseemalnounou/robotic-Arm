@@ -1,0 +1,9 @@
+c:\users\waseem\documents\visual studio 2017\Projects\IIC_ARM\IIC_ARM\bin\Debug\IIC_ARM.exe.config
+c:\users\waseem\documents\visual studio 2017\Projects\IIC_ARM\IIC_ARM\bin\Debug\IIC_ARM.exe
+c:\users\waseem\documents\visual studio 2017\Projects\IIC_ARM\IIC_ARM\bin\Debug\IIC_ARM.pdb
+c:\users\waseem\documents\visual studio 2017\Projects\IIC_ARM\IIC_ARM\obj\Debug\IIC_ARM.Form1.resources
+c:\users\waseem\documents\visual studio 2017\Projects\IIC_ARM\IIC_ARM\obj\Debug\IIC_ARM.Properties.Resources.resources
+c:\users\waseem\documents\visual studio 2017\Projects\IIC_ARM\IIC_ARM\obj\Debug\IIC_ARM.csproj.GenerateResource.Cache
+c:\users\waseem\documents\visual studio 2017\Projects\IIC_ARM\IIC_ARM\obj\Debug\IIC_ARM.exe
+c:\users\waseem\documents\visual studio 2017\Projects\IIC_ARM\IIC_ARM\obj\Debug\IIC_ARM.pdb
+c:\users\waseem\documents\visual studio 2017\Projects\IIC_ARM\IIC_ARM\obj\Debug\IIC_ARM.csprojResolveAssemblyReference.cache
